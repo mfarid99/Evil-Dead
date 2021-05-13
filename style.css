@@ -14,8 +14,18 @@ body {
   flex-wrap: wrap;
 }
 
-#box1,
-#box2,
+.evildead {
+  background: url('https://img.discogs.com/J1GELHH2a2R1bjXFgFSohs0UYX4=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-564493-1355684645-1963.jpeg.jpg')
+    no-repeat;
+  margin: auto;
+}
+
+.evildead2 {
+  background: url('https://pbs.twimg.com/profile_images/466318196115390464/XmTdQBb5_400x400.jpeg');
+}
+
+#mainImage,
+.evildead2,
 #box3,
 #box4,
 #box5,
