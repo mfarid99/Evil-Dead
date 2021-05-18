@@ -21,7 +21,10 @@ body {
 }
 
 .evildead2 {
-  background: url('https://pbs.twimg.com/profile_images/466318196115390464/XmTdQBb5_400x400.jpeg');
+  border: solid red;
+  text-align: center;
+  color: white;
+  background: black;
 }
 
 #mainImage,

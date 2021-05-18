@@ -38,5 +38,5 @@
 var light = document.getElementById('mainImage')
 
 light.addEventListener('click', function (light) {
-  light.target.classList.toggle('evildead2')
+  light.target.idList.toggle('mainImage2')
 })
